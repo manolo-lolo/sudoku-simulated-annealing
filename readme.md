@@ -7,12 +7,12 @@ What is great about it, though, is that you can watch the algorithm solve the Su
 
 ## Preview
 
-<video src="https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/solver.webm.mov" width="480" />
+https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/solver.webm.mov
 
 ## Reheating
 Sometimes the system will get stuck close to a non-global optimum (aka not the solution). In that case, the system is automatically reheated.
 
-<video src="https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/reheat.webm.mov" width="480" />
+https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/reheat.webm.mov
 
 
 ## Requirements
