@@ -9,10 +9,14 @@ What is great about it, though, is that you can watch the algorithm solve the Su
 
 https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/solver.mp4
 
+
 ## Reheating
 Sometimes the system will get stuck close to a non-global optimum (aka not the solution). In that case, the system is automatically reheated.
 
-https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/reheat.mp4
+<video width="640" height="480" controls>
+  <source src="https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/reheat.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Requirements
