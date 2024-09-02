@@ -7,17 +7,12 @@ What is great about it, though, is that you can watch the algorithm solve the Su
 
 ## Preview
 
-https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/solver.mp4
-
+https://github.com/user-attachments/assets/e912366e-d652-40fc-bc92-ac104d8e81c9
 
 ## Reheating
 Sometimes the system will get stuck close to a non-global optimum (aka not the solution). In that case, the system is automatically reheated.
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/manolo-lolo/sudoku-simulated-annealing/raw/main/videos/reheat.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/7dfcca14-29ba-4668-a85b-2a37f6a744bf
 
 ## Requirements
 Python 3.10, Tkinter, Poetry
